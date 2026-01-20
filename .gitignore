@@ -1,9 +1,0 @@
-node_modules
-*.vsix
-.env
-default.json
-.gitignore
-.gitattibutes
-.vscode
-.git
-vsc-extension-quickstart.md
