@@ -4,7 +4,16 @@
   "description": "A dark theme that maintains code comfort and enhances the colors of the entire UI.",
   "version": "0.0.1",
   "engines": {
-    "vscode": "^1.108.1"
+    "vscode": "^1.108.0"
+  },
+  "author": {
+    "name": "Luceno",
+    "email": "lcunhalula@gmail.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/LucaCunha001/dark-confort/"
   },
   "categories": [
     "Themes"
@@ -14,12 +23,12 @@
       {
         "label": "Dark Confort",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dark Confort-color-theme.json"
+        "path": "./themes/DarkConfort-color-theme.json"
       },
       {
         "label": "Dark Confort Red",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dark Confort Red-color-theme.json"
+        "path": "./themes/DarkConfortRed-color-theme.json"
       }
     ]
   }
