@@ -6,6 +6,7 @@
   "engines": {
     "vscode": "^1.108.0"
   },
+  "publisher": "Luceno",
   "author": {
     "name": "Luceno",
     "email": "lcunhalula@gmail.com"
