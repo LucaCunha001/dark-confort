@@ -19,6 +19,7 @@
   "categories": [
     "Themes"
   ],
+  "icon": "icone_dark_confort.png",
   "contributes": {
     "themes": [
       {
