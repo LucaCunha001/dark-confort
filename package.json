@@ -1,0 +1,21 @@
+{
+  "name": "dark-confort",
+  "displayName": "Dark Confort",
+  "description": "A dark theme that maintains code comfort and enhances the colors of the entire UI.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.108.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Confort",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Confort-color-theme.json"
+      }
+    ]
+  }
+}
