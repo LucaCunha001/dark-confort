@@ -2,7 +2,7 @@
   "name": "dark-confort",
   "displayName": "Dark Confort",
   "description": "A dark theme that maintains code comfort and enhances the colors of the entire UI.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.108.0"
   },
