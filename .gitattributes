@@ -1,0 +1,14 @@
+* text=auto
+
+*.sh text eol=lf
+
+*.bat text eol=crlf
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.ico binary
+*.gif binary
+*.zip binary
+
+.vscode/** linguist-generated
