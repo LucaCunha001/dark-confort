@@ -19,7 +19,8 @@ Dark Confort is a minimalistic dark theme for VS Code, designed for developers w
 
 ## Screenshots
 
-*(You can add screenshots here of the All Black and Red versions)*
+![Dark Confort](./screenshots/2026-01-20%20185806.png)
+![Dark Confort Red](./screenshots/2026-01-20%20190010.png)
 
 ---
 
