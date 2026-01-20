@@ -15,6 +15,11 @@
         "label": "Dark Confort",
         "uiTheme": "vs-dark",
         "path": "./themes/Dark Confort-color-theme.json"
+      },
+      {
+        "label": "Dark Confort Red",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Confort Red-color-theme.json"
       }
     ]
   }

@@ -12,24 +12,32 @@
 
 		// ===== Title Bar =====
 		"titleBar.activeBackground": "#000000",
+		"titleBar.activeForeground": "#ff6565",
 		"titleBar.inactiveBackground": "#010101",
+		"titleBar.inactiveForeground": "#9f0000",
 
 		// ===== Tabs =====
 		"tab.activeBackground": "#000000",
+		"tab.activeForeground": "#ff0000",
 		"tab.hoverBackground": "#101010",
 		"tab.inactiveBackground": "#101010",
+		"tab.inactiveForeground": "#9f0000",
 		"tab.selectedBackground": "#040404",
+		"tab.selectedForeground": "#cc0000",
 
 		// ===== Activity / Sidebar =====
 		"activityBar.background": "#000000",
+		"activityBar.foreground": "#ff6565",
 
 		"sideBar.background": "#000000",
 		"sideBarSectionHeader.background": "#060606",
+		"sideBarSectionHeader.foreground": "#ff6565",
 
 		// ===== Menus =====
 		"menu.background": "#010101",
 		"menu.foreground": "#d4d4d4",
 		"menu.selectionBackground": "#101010",
+		"menu.selectionForeground": "#ff0000",
 		"menu.separatorBackground": "#111111",
 
 		// ===== Quick Input / Command Palette =====
@@ -37,6 +45,8 @@
 		"quickInput.foreground": "#d4d4d4",
 
 		"quickInputList.focusBackground": "#040404",
+		"quickInputList.focusForeground": "#ff0000",
+		"quickInputList.focusIconForeground": "#ff0000",
 
 		// ===== Inputs =====
 		"input.background": "#000000",
@@ -48,6 +58,7 @@
 
 		// ===== Status Bar =====
 		"statusBar.background": "#000000",
+		"statusBar.foreground": "#ff6565",
 		"statusBar.noFolderBackground": "#000000",
 
 		// ===== Breadcrumbs =====
@@ -55,6 +66,10 @@
 
 		// ===== Focus =====
 		"focusBorder": "#040404",
+
+		// ===== Terminal =====
+		"terminal.foreground": "#d4d4d4",
+		"terminal.ansiRed": "#ff0000"
 	},
 
 	"tokenColors": []
